@@ -1,1 +1,1 @@
-Hi, I'm Stefan Bobekov, a Python Developer
+Hi, I'm Stefan Bobekov, a Python Web Developer
